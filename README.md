@@ -3,4 +3,4 @@
 ## Battle 1
 + #2
 
-<img src="img/two.png"> 
+<img src="img/two.png" widht="200"> 
