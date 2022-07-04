@@ -1,7 +1,7 @@
 # CSS-Battle
 
 ## Battle 14 
-+ # 77
++ #77
 <img src="img/seventyseven.png" width="500"> 
 
 
